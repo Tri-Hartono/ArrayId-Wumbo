@@ -35,5 +35,5 @@ body {
   @apply bg-sky-600 text-white transition duration-1000;
 }
 .Logo-scroll {
-  @apply bg-sky-600;
+  @apply bg-sky-600 border border-white;
 }
